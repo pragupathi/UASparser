@@ -6,7 +6,7 @@
   <groupId>cz.mallat.uaparser</groupId>
   <artifactId>uasparser</artifactId>
 
-  <version>0.6.0</version>
+  <version>0.6.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>UASparser</name>
@@ -27,7 +27,7 @@
     <url>https://github.com/chetan/UASparser</url>
     <connection>scm:git:git://github.com/chetan/UASparser.git</connection>
     <developerConnection>scm:git:git@github.com:chetan/UASparser.git</developerConnection>
-    <tag>uasparser-0.6.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <distributionManagement>
